@@ -1,0 +1,9 @@
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/MyProjectApplication.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/model/User.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/repository/UserRepository.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/service/UserService.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/controller/TicketController.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/repository/TicketRepository.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/controller/UserController.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/service/TicketService.java
+/Users/ahershkovitz/Documents/Projects/Java/final-project/src/main/java/com/example/myproject/model/Ticket.java
